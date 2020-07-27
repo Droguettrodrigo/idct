@@ -1,0 +1,37 @@
+<Encabezado xmlns="http://www.sii.cl/SiiDte">
+  <IdDoc>
+    <TipoDTE>52</TipoDTE>
+    <Folio>2857042</Folio>
+    <FchEmis>2012-06-22</FchEmis>
+    <TipoDespacho>2</TipoDespacho>
+    <IndTraslado>1</IndTraslado>
+    <FmaPago>2</FmaPago>
+  </IdDoc>
+  <Emisor>
+    <RUTEmisor>96556940-5</RUTEmisor>
+    <RznSoc>Proveedores Integrales Prisa S.A.</RznSoc>
+    <GiroEmis>Compra y Venta de Articulos de Oficina</GiroEmis>
+    <Acteco>3131</Acteco>
+    <DirOrigen>Las Rosas 5757</DirOrigen>
+    <CmnaOrigen>Cerrillos</CmnaOrigen>
+    <CiudadOrigen>Santiago</CiudadOrigen>
+  </Emisor>
+  <Receptor>
+    <RUTRecep>97006000-6</RUTRecep>
+    <RznSocRecep>BANCO DE CREDITO E INVERSIONES</RznSocRecep>
+    <GiroRecep>BANCO</GiroRecep>
+    <Contacto>9732 60200-UNIDAD SOPORTE POSTVENTA</Contacto>
+    <DirRecep>EL GOLF 125</DirRecep>
+    <CmnaRecep>LAS CONDES</CmnaRecep>
+    <CiudadRecep>SANTIAGO</CiudadRecep>
+    <DirPostal>PHILLIPS 451    P.2</DirPostal>
+    <CmnaPostal>LAS CONDES</CmnaPostal>
+    <CiudadPostal>SANTIAGO</CiudadPostal>
+  </Receptor>
+  <Totales>
+    <MntNeto>76302</MntNeto>
+    <TasaIVA>19.00</TasaIVA>
+    <IVA>14497</IVA>
+    <MntTotal>90799</MntTotal>
+  </Totales>
+</Encabezado>

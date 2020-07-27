@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="urn:sap-com:document:sap:soap:functions:mc-style" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:n1="urn:sap-com:document:sap:rfc:functions" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:sap-com:document:sap:soap:functions:mc-style" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <sidl:sidl xmlns:sidl="http://www.sap.com/2007/03/sidl" />
+  </wsdl:documentation>
+  <wsdl:types>
+    <xsd:schema attributeFormDefault="qualified" targetNamespace="urn:sap-com:document:sap:rfc:functions">
+      <xsd:simpleType name="char1">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="1" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char10">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="10" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char100">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="100" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char1000">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="1000" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char15">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="15" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char18">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="18" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char20">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="20" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char3">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="3" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char35">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="35" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char4">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="4" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char40">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="40" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char45">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="45" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char5">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="5" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char60">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="60" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char70">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="70" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char80">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="80" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="char90">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="90" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="numeric1">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="1" />
+          <xsd:pattern value="\d*" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="numeric10">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="10" />
+          <xsd:pattern value="\d*" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="numeric2">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="2" />
+          <xsd:pattern value="\d*" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="numeric4">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="4" />
+          <xsd:pattern value="\d*" />
+        </xsd:restriction>
+      </xsd:simpleType>
+    </xsd:schema>
+    <xsd:schema xmlns:n0="urn:sap-com:document:sap:rfc:functions" attributeFormDefault="qualified" targetNamespace="urn:sap-com:document:sap:soap:functions:mc-style">
+      <xsd:import namespace="urn:sap-com:document:sap:rfc:functions" />
+      <xsd:complexType name="ZfeDetalle">
+        <xsd:sequence>
+          <xsd:element name="Nrolindet" type="n0:numeric4" />
+          <xsd:element name="Tpocodigo" type="n0:char10" />
+          <xsd:element name="Vlrcodigo" type="n0:char35" />
+          <xsd:element name="Nmbitem" type="n0:char80" />
+          <xsd:element name="Dscitem" type="n0:char1000" />
+          <xsd:element name="Qtyitem" type="n0:char18" />
+          <xsd:element name="Unmditem" type="n0:char4" />
+          <xsd:element name="Prcitem" type="n0:char18" />
+          <xsd:element name="Montoitem" type="n0:char18" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ZfeDscrcgglobal">
+        <xsd:sequence>
+          <xsd:element name="Nrolindr" type="n0:numeric2" />
+          <xsd:element name="Tpomov" type="n0:char1" />
+          <xsd:element name="Glosadr" type="n0:char45" />
+          <xsd:element name="Tpovalor" type="n0:char1" />
+          <xsd:element name="Valordr" type="n0:char18" />
+          <xsd:element name="Valordrotrmnda" type="n0:char18" />
+          <xsd:element name="Indexedr" type="n0:numeric1" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ZfeImpuestos">
+        <xsd:sequence>
+          <xsd:element name="Tipoimp" type="n0:char3" />
+          <xsd:element name="Tasaimp" type="n0:char5" />
+          <xsd:element name="Montoimp" type="n0:char18" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ZfeReferencia">
+        <xsd:sequence>
+          <xsd:element name="Nrolinref" type="n0:numeric2" />
+          <xsd:element name="Tpodocref" type="n0:char3" />
+          <xsd:element name="Indglobal" type="n0:numeric1" />
+          <xsd:element name="Folioref" type="n0:char18" />
+          <xsd:element name="Fchref" type="n0:char10" />
+          <xsd:element name="Codref" type="n0:numeric1" />
+          <xsd:element name="Razonref" type="n0:char90" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="TableOfZfeDetalle">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:ZfeDetalle" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="TableOfZfeDscrcgglobal">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:ZfeDscrcgglobal" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="TableOfZfeImpuestos">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:ZfeImpuestos" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="TableOfZfeReferencia">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:ZfeReferencia" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="CargaDte">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" name="Cdgintrecep" type="n0:char20" />
+            <xsd:element minOccurs="0" name="Cdgtraslado" type="n0:numeric1" />
+            <xsd:element minOccurs="0" name="Cdgvendedor" type="n0:char60" />
+            <xsd:element minOccurs="0" name="Ciudadorigen" type="n0:char20" />
+            <xsd:element minOccurs="0" name="Ciudadrecep" type="n0:char20" />
+            <xsd:element name="Cmnaorigen" type="n0:char20" />
+            <xsd:element name="Cmnarecep" type="n0:char20" />
+            <xsd:element minOccurs="0" name="Correoemisor" type="n0:char80" />
+            <xsd:element minOccurs="0" name="Correorecep" type="n0:char80" />
+            <xsd:element name="Detalle" type="tns:TableOfZfeDetalle" />
+            <xsd:element name="Dirorigen" type="n0:char60" />
+            <xsd:element name="Dirrecep" type="n0:char70" />
+            <xsd:element name="Dscrcgglobal" type="tns:TableOfZfeDscrcgglobal" />
+            <xsd:element name="Fchemis" type="n0:char10" />
+            <xsd:element minOccurs="0" name="Fchvenc" type="n0:char10" />
+            <xsd:element minOccurs="0" name="Firma" type="xsd:string" />
+            <xsd:element minOccurs="0" name="Fmapago" type="n0:numeric1" />
+            <xsd:element name="Folio" type="n0:numeric10" />
+            <xsd:element name="Giroemis" type="n0:char80" />
+            <xsd:element name="Girorecep" type="n0:char40" />
+            <xsd:element name="Imptoreten" type="tns:TableOfZfeImpuestos" />
+            <xsd:element minOccurs="0" name="Indtraslado" type="n0:numeric1" />
+            <xsd:element name="Iva" type="n0:char18" />
+            <xsd:element name="Ivanoret" type="n0:char18" />
+            <xsd:element name="Mntexe" type="n0:char18" />
+            <xsd:element name="Mntneto" type="n0:char18" />
+            <xsd:element name="Mnttotal" type="n0:char18" />
+            <xsd:element minOccurs="0" name="Montonf" type="n0:char18" />
+            <xsd:element minOccurs="0" name="Montoperiodo" type="n0:char18" />
+            <xsd:element name="Referencia" type="tns:TableOfZfeReferencia" />
+            <xsd:element name="Rutemisor" type="n0:char10" />
+            <xsd:element name="Rutrecep" type="n0:char10" />
+            <xsd:element name="Rznsoc" type="n0:char100" />
+            <xsd:element name="Rznsocrecep" type="n0:char100" />
+            <xsd:element minOccurs="0" name="Saldoanterior" type="n0:char18" />
+            <xsd:element name="Tasaiva" type="n0:char5" />
+            <xsd:element name="Tipodte" type="n0:numeric2" />
+            <xsd:element minOccurs="0" name="Tpomoneda" type="n0:char15" />
+            <xsd:element name="Valcomexe" type="n0:char18" />
+            <xsd:element minOccurs="0" name="Valcomiva" type="n0:char18" />
+            <xsd:element name="Valcomneto" type="n0:char18" />
+            <xsd:element minOccurs="0" name="Vlrpagar" type="n0:char18" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="CargaDteResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="Codigoretorno" type="n0:numeric4" />
+            <xsd:element name="Descripcioncodigo" type="n0:char100" />
+            <xsd:element name="Detalle" type="tns:TableOfZfeDetalle" />
+            <xsd:element name="Dscrcgglobal" type="tns:TableOfZfeDscrcgglobal" />
+            <xsd:element name="Imptoreten" type="tns:TableOfZfeImpuestos" />
+            <xsd:element name="Referencia" type="tns:TableOfZfeReferencia" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="CargaDte">
+    <wsdl:part name="parameters" element="tns:CargaDte" />
+  </wsdl:message>
+  <wsdl:message name="CargaDteResponse">
+    <wsdl:part name="parameter" element="tns:CargaDteResponse" />
+  </wsdl:message>
+  <wsdl:portType name="zservicios_fe_v2">
+    <wsdl:operation name="CargaDte">
+      <wsdl:input message="tns:CargaDte" />
+      <wsdl:output message="tns:CargaDteResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="zservicios_fe_v2" type="tns:zservicios_fe_v2">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CargaDte">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="zservicios_fe_v2">
+    <wsdl:port name="zservicios_fe_v2" binding="tns:zservicios_fe_v2">
+      <soap:address location="http://161.131.184.101:8000/sap/bc/srt/rfc/sap/zservicios_fe_v2/100/zservicios_fe_v2/zservicios_fe_v2" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

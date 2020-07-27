@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="IntercambioRespuestasSII_WebReference_zservicios_fe_v2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://161.131.232.99:8000/sap/bc/srt/rfc/sap/zservicios_fe_v2/300/zservicios_fe_v2/zservicios_fe_v2</Value>
+    </Setting>
+    <Setting Name="CertPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Trabajos\IntercambioBCI_WS\Proceso\certificado_digital_firmante_efactura.p12</Value>
+    </Setting>
+    <Setting Name="CertPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bcicacho</Value>
+    </Setting>
+    <Setting Name="RespuestasSII_cl_sii_semilla_CrSeedService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/CrSeed.jws</Value>
+    </Setting>
+    <Setting Name="RespuestasSII_cl_sii_token_GetTokenFromSeedService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/GetTokenFromSeed.jws</Value>
+    </Setting>
+    <Setting Name="RespuestasSII_cl_sii_queryEstDte_QueryEstDteService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/QueryEstDte.jws</Value>
+    </Setting>
+    <Setting Name="ProxyServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.0.50:3128/</Value>
+    </Setting>
+    <Setting Name="ProxyUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hfigueroa</Value>
+    </Setting>
+    <Setting Name="ProxyPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hfi-2012</Value>
+    </Setting>
+    <Setting Name="DtePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\PROY_HFL2012\DTE_PRUEBA</Value>
+    </Setting>
+    <Setting Name="RequiereProxy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">S</Value>
+    </Setting>
+    <Setting Name="DtePathProcOK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\PROY_HFL2012\DTE_PRUEBA\PROCESADOS</Value>
+    </Setting>
+    <Setting Name="maximoIntentos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DtePathProcNOK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\PROY_HFL2012\DTE_PRUEBA\RECHAZADOS</Value>
+    </Setting>
+    <Setting Name="VidaSemillaMil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="DteEstOK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DTE Recibido</Value>
+    </Setting>
+    <Setting Name="DteLogEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\PROY_HFL2012\DTE_PRUEBA\LOG</Value>
+    </Setting>
+    <Setting Name="WsBCI_Carga" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

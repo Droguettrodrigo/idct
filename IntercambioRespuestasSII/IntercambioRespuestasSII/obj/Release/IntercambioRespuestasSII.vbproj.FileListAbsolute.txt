@@ -1,0 +1,116 @@
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+D:\Trabajo\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+D:\Trabajo\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+D:\PROY2018\CAZ\BCI\IntercambioBCI_WS\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+D:\PROY2018\RECEP_DTE_BCICORREDORES\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+\\192.168.23.214\fuentes2018\BCI RECEPCION\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\PrototipoEfactura.dll
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\PrototipoEfactura.pdb
+D:\FUENTES2018\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\PrototipoEfactura.xml
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe.config
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.exe
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.xml
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.pdb
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.exe
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.XmlSerializers.dll
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.pdb
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\IntercambioRespuestasSII.xml
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.exe
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\FirmaXML.dll
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\PrototipoEfactura.dll
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.pdb
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\bin\Release\RespuestasSII.XmlSerializers.dll
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbprojResolveAssemblyReference.cache
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.Resources.resources
+D:\Respaldo Fuentes HF\BCI RECEPCION SUJETO IVA\IntercambioRespuestasSII\IntercambioRespuestasSII\obj\Release\IntercambioRespuestasSII.vbproj.GenerateResource.Cache

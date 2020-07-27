@@ -1,0 +1,43 @@
+<Encabezado xmlns="http://www.sii.cl/SiiDte">
+  <IdDoc>
+    <TipoDTE>33</TipoDTE>
+    <Folio>71671</Folio>
+    <FchEmis>2019-02-17</FchEmis>
+    <TipoDespacho>2</TipoDespacho>
+    <FmaPago>2</FmaPago>
+    <MntPagos>
+      <FchPago>2019-03-19</FchPago>
+      <MntPago>40000000</MntPago>
+      <GlosaPagos>CREDITO</GlosaPagos>
+    </MntPagos>
+    <FchVenc>2019-03-19</FchVenc>
+  </IdDoc>
+  <Emisor>
+    <RUTEmisor>96564810-0</RUTEmisor>
+    <RznSoc>GUILLERMO MORALES LTDA.</RznSoc>
+    <GiroEmis>Venta o compraventa al por menor de Veh. automotores nuevos y usados. </GiroEmis>
+    <Acteco>501020</Acteco>
+    <Sucursal>Americo Vespucio</Sucursal>
+    <DirOrigen>Francisco de Aguirre 3720 Of.22</DirOrigen>
+    <CmnaOrigen>Vitacura</CmnaOrigen>
+    <CiudadOrigen>Santiago</CiudadOrigen>
+    <CdgVendedor>Giovanni Canto Giuliucci</CdgVendedor>
+  </Emisor>
+  <Receptor>
+    <RUTRecep>97006000-6</RUTRecep>
+    <RznSocRecep>BANCO DE CREDITO E INVERSIONES</RznSocRecep>
+    <GiroRecep>BANCO COMERCIAL</GiroRecep>
+    <Contacto>MARIO AGUIRRE</Contacto>
+    <CorreoRecep>mario.aguirre@aka.cl</CorreoRecep>
+    <DirRecep>AVENIDA EL GOLF 125</DirRecep>
+    <CmnaRecep>LAS CONDES</CmnaRecep>
+    <CiudadRecep>SANTIAGO</CiudadRecep>
+  </Receptor>
+  <Totales>
+    <MntNeto>33613445</MntNeto>
+    <MntExe>0</MntExe>
+    <TasaIVA>19</TasaIVA>
+    <IVA>6386555</IVA>
+    <MntTotal>40000000</MntTotal>
+  </Totales>
+</Encabezado>

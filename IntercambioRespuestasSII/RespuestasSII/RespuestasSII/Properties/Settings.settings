@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RespuestasSII.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CertPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\certificado_digital_firmante_efactura.p12</Value>
+    </Setting>
+    <Setting Name="CertPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bcicacho</Value>
+    </Setting>
+    <Setting Name="RespuestasSII_cl_sii_semilla_CrSeedService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/CrSeed.jws</Value>
+    </Setting>
+    <Setting Name="RequiereProxy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">S</Value>
+    </Setting>
+    <Setting Name="RespuestasSII_cl_sii_token_GetTokenFromSeedService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/GetTokenFromSeed.jws</Value>
+    </Setting>
+    <Setting Name="RespuestasSII_cl_sii_queryEstDte_QueryEstDteService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://palena.sii.cl/DTEWS/QueryEstDte.jws</Value>
+    </Setting>
+    <Setting Name="ProxyServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.50:3128/</Value>
+    </Setting>
+    <Setting Name="ProxyUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hfigueroa</Value>
+    </Setting>
+    <Setting Name="ProxyPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hfi-2012</Value>
+    </Setting>
+    <Setting Name="DtePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\PROY_HFL2012\DTE_PRUEBA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntercambioRespuestasSII", "IntercambioRespuestasSII\IntercambioRespuestasSII.vbproj", "{25C0FD06-45A0-47FC-B16F-9A67368FB59E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6436C3A2-ED76-4760-88FD-FE61CCAA6254} = {6436C3A2-ED76-4760-88FD-FE61CCAA6254}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RespuestasSII", "RespuestasSII\RespuestasSII\RespuestasSII.csproj", "{6436C3A2-ED76-4760-88FD-FE61CCAA6254}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupIntercambioRespuestasSII V2", "Setup1\Setup1.vdproj", "{A618B6D8-24F0-483D-9553-D1CBC6AC37FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C0FD06-45A0-47FC-B16F-9A67368FB59E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{25C0FD06-45A0-47FC-B16F-9A67368FB59E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{25C0FD06-45A0-47FC-B16F-9A67368FB59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C0FD06-45A0-47FC-B16F-9A67368FB59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6436C3A2-ED76-4760-88FD-FE61CCAA6254}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6436C3A2-ED76-4760-88FD-FE61CCAA6254}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6436C3A2-ED76-4760-88FD-FE61CCAA6254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6436C3A2-ED76-4760-88FD-FE61CCAA6254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A618B6D8-24F0-483D-9553-D1CBC6AC37FB}.Debug|Any CPU.ActiveCfg = Release
+		{A618B6D8-24F0-483D-9553-D1CBC6AC37FB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

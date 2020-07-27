@@ -1,0 +1,31 @@
+<Encabezado xmlns="http://www.sii.cl/SiiDte">
+  <IdDoc>
+    <TipoDTE>33</TipoDTE>
+    <Folio>899820</Folio>
+    <FchEmis>2015-05-31</FchEmis>
+    <FchVenc>2015-06-30</FchVenc>
+  </IdDoc>
+  <Emisor>
+    <RUTEmisor>80470300-4</RUTEmisor>
+    <RznSoc>MAX HUBER REPROTECNICA S.A.</RznSoc>
+    <GiroEmis>IMPR. DIGITAL.ESCANEO.DIGITALIZ.EXPORTAC</GiroEmis>
+    <Acteco>222200</Acteco>
+    <DirOrigen>GRAL DEL CANTO 276</DirOrigen>
+    <CmnaOrigen>PROVIDENCIA</CmnaOrigen>
+    <CiudadOrigen>SANTIAGO</CiudadOrigen>
+    <CdgVendedor>30 días</CdgVendedor>
+  </Emisor>
+  <Receptor>
+    <RUTRecep>97006000-6</RUTRecep>
+    <RznSocRecep>BANCO CREDITO E INVERSIONES</RznSocRecep>
+    <GiroRecep>BANCO</GiroRecep>
+    <DirRecep>AV. EL GOLF 125</DirRecep>
+    <CmnaRecep>Las Condes</CmnaRecep>
+  </Receptor>
+  <Totales>
+    <MntNeto>14600</MntNeto>
+    <TasaIVA>19</TasaIVA>
+    <IVA>2774</IVA>
+    <MntTotal>17374</MntTotal>
+  </Totales>
+</Encabezado>

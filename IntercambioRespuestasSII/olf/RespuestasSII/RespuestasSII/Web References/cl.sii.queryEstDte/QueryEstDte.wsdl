@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:impl="https://palena.sii.cl/DTEWS/QueryEstDte.jws" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:intf="https://palena.sii.cl/DTEWS/QueryEstDte.jws" targetNamespace="https://palena.sii.cl/DTEWS/QueryEstDte.jws" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types />
+  <wsdl:message name="getVersionMenorResponse">
+    <wsdl:part name="getVersionMenorReturn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getStateRequest" />
+  <wsdl:message name="getVersionMayorResponse">
+    <wsdl:part name="getVersionMayorReturn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getVersionMayorRequest" />
+  <wsdl:message name="getVersionMenorRequest" />
+  <wsdl:message name="getVersionPatchResponse">
+    <wsdl:part name="getVersionPatchReturn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getEstDteResponse">
+    <wsdl:part name="getEstDteReturn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getEstDteRequest">
+    <wsdl:part name="RutConsultante" type="xsd:string" />
+    <wsdl:part name="DvConsultante" type="xsd:string" />
+    <wsdl:part name="RutCompania" type="xsd:string" />
+    <wsdl:part name="DvCompania" type="xsd:string" />
+    <wsdl:part name="RutReceptor" type="xsd:string" />
+    <wsdl:part name="DvReceptor" type="xsd:string" />
+    <wsdl:part name="TipoDte" type="xsd:string" />
+    <wsdl:part name="FolioDte" type="xsd:string" />
+    <wsdl:part name="FechaEmisionDte" type="xsd:string" />
+    <wsdl:part name="MontoDte" type="xsd:string" />
+    <wsdl:part name="Token" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="getVersionPatchRequest" />
+  <wsdl:message name="getStateResponse">
+    <wsdl:part name="getStateReturn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="QueryEstDte">
+    <wsdl:operation name="getState">
+      <wsdl:input name="getStateRequest" message="intf:getStateRequest" />
+      <wsdl:output name="getStateResponse" message="intf:getStateResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getVersionMayor">
+      <wsdl:input name="getVersionMayorRequest" message="intf:getVersionMayorRequest" />
+      <wsdl:output name="getVersionMayorResponse" message="intf:getVersionMayorResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getVersionMenor">
+      <wsdl:input name="getVersionMenorRequest" message="intf:getVersionMenorRequest" />
+      <wsdl:output name="getVersionMenorResponse" message="intf:getVersionMenorResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getVersionPatch">
+      <wsdl:input name="getVersionPatchRequest" message="intf:getVersionPatchRequest" />
+      <wsdl:output name="getVersionPatchResponse" message="intf:getVersionPatchResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="getEstDte" parameterOrder="RutConsultante DvConsultante RutCompania DvCompania RutReceptor DvReceptor TipoDte FolioDte FechaEmisionDte MontoDte Token">
+      <wsdl:input name="getEstDteRequest" message="intf:getEstDteRequest" />
+      <wsdl:output name="getEstDteResponse" message="intf:getEstDteResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QueryEstDteSoapBinding" type="intf:QueryEstDte">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="getState">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getStateRequest">
+        <wsdlsoap:body use="encoded" namespace="http://DefaultNamespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getStateResponse">
+        <wsdlsoap:body use="encoded" namespace="https://palena.sii.cl/DTEWS/QueryEstDte.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getVersionMayor">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getVersionMayorRequest">
+        <wsdlsoap:body use="encoded" namespace="http://DefaultNamespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getVersionMayorResponse">
+        <wsdlsoap:body use="encoded" namespace="https://palena.sii.cl/DTEWS/QueryEstDte.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getVersionMenor">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getVersionMenorRequest">
+        <wsdlsoap:body use="encoded" namespace="http://DefaultNamespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getVersionMenorResponse">
+        <wsdlsoap:body use="encoded" namespace="https://palena.sii.cl/DTEWS/QueryEstDte.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getVersionPatch">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getVersionPatchRequest">
+        <wsdlsoap:body use="encoded" namespace="http://DefaultNamespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getVersionPatchResponse">
+        <wsdlsoap:body use="encoded" namespace="https://palena.sii.cl/DTEWS/QueryEstDte.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getEstDte">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="getEstDteRequest">
+        <wsdlsoap:body use="encoded" namespace="http://DefaultNamespace" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="getEstDteResponse">
+        <wsdlsoap:body use="encoded" namespace="https://palena.sii.cl/DTEWS/QueryEstDte.jws" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QueryEstDteService">
+    <wsdl:port name="QueryEstDte" binding="intf:QueryEstDteSoapBinding">
+      <wsdlsoap:address location="https://palena.sii.cl/DTEWS/QueryEstDte.jws" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
